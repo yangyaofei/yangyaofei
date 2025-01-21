@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm a enginner. Here is I capable to do, contact me if you need me.
 
 
 ### **1. NLP and LLM-related Modeling and Applications**
